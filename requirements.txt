@@ -1,0 +1,14 @@
+streamlit
+plotly
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+
+transformers==4.44.2
+torch
+huggingface_hub
+
+python-dotenv
+scikit-learn
